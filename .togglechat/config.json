@@ -1,0 +1,5 @@
+﻿{
+  "scope": ["app", "packages/core", "packages/ui", ".github", ".togglechat"],
+  "style": { "typescript": true, "strict": true, "eslint": true },
+  "tasksDir": ".togglechat/tasks"
+}

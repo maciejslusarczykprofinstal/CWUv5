@@ -1,0 +1,27 @@
+﻿# dependencies
+node_modules/
+app/node_modules/
+.pnpm-store/
+.pnpm/
+npm-debug.log*
+
+# Next.js build
+.next/
+app/.next/
+out/
+app/out/
+dist/
+app/dist/
+build/
+app/build/
+.vercel/
+
+# env
+.env
+.env.local
+.env.*
+!.env.example
+
+# editor / OS
+.vscode/
+.DS_Store
